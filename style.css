@@ -1,0 +1,14 @@
+.inputFeild{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: auto;
+}
+
+ul>li{
+    border: 2px solid red;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 600px;
+    height: 30px;
+}
